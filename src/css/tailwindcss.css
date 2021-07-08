@@ -1,0 +1,22 @@
+/*! @import */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .xl\:container {
+    @apply mx-auto px-3;
+  }
+
+  input {
+    @apply border border-gray-400 rounded-2xl p-3 w-full;
+  }
+
+  input.error {
+    @apply border-red-500;
+  }
+
+  .btn {
+    @apply px-3 py-2;
+  }
+}

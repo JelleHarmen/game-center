@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59px" height="49px" viewBox="0 0 59 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>diamond</title>
+    <defs>
+        <linearGradient x1="56.0244115%" y1="42.3914248%" x2="47.5501308%" y2="55.7741092%" id="linearGradient-1">
+            <stop stop-color="#6ECEEC" offset="0%"></stop>
+            <stop stop-color="#4794D0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="87.3060157%" y1="55.1313985%" x2="62.929381%" y2="44.972371%" id="linearGradient-2">
+            <stop stop-color="#71B6DF" offset="0%"></stop>
+            <stop stop-color="#5896C0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="47.2310977%" y1="51.772634%" x2="73.8617851%" y2="34.9252857%" id="linearGradient-3">
+            <stop stop-color="#64ADDD" offset="0%"></stop>
+            <stop stop-color="#458CBA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="39.6862289%" y1="39.3046251%" x2="81.696688%" y2="82.9508573%" id="linearGradient-4">
+            <stop stop-color="#BBE5F4" offset="0%"></stop>
+            <stop stop-color="#6ECEEC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="134.075593%" x2="50%" y2="1.37708761%" id="linearGradient-5">
+            <stop stop-color="#589FD1" offset="0%"></stop>
+            <stop stop-color="#4684B4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="150.222552%" id="linearGradient-6">
+            <stop stop-color="#9DDBF0" offset="0%"></stop>
+            <stop stop-color="#46C7ED" offset="69%"></stop>
+            <stop stop-color="#4794D0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="diamond" transform="translate(0.760000, 0.500000)" fill-rule="nonzero">
+            <polygon id="Path" fill="url(#linearGradient-1)" points="46.81 0 57.35 13.48 28.67 20.95 -5.68434189e-14 13.48 10.54 0"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-2)" points="28.67 47.61 43.01 30.55 57.35 13.48 28.67 13.48 -5.68434189e-14 13.48 14.34 30.55"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-3)" points="28.67 47.61 28.67 13.48 2.84217094e-14 13.48 14.34 30.55"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-4)" points="17.21 0 10.55 13.48 0 13.48 10.54 0"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-5)" points="28.67 47.61 46.79 13.48 10.55 13.48"></polygon>
+            <polygon id="Path" fill="url(#linearGradient-6)" points="40.13 0 46.79 13.48 28.67 13.48 10.55 13.48 17.21 0"></polygon>
+        </g>
+    </g>
+</svg>
